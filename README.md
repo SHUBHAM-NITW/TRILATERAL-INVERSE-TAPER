@@ -267,32 +267,26 @@ where `E_fiber` is the Gaussian fiber mode field and `E_taper` is the simulated 
 
 ## Results
 
-> **Note:** Replace the placeholder values below with your actual simulation results and figures.
+### Taper Length Vs Efficiency
+<img width="592" height="426" alt="Taper length vs dB loss" src="https://github.com/user-attachments/assets/5df5d11b-b375-4baa-ad6c-c6ae373a192f" />
+<img width="596" height="429" alt="Taper Length vs transmission coefficient" src="https://github.com/user-attachments/assets/439f385e-8d8a-4407-8e00-280907220864" />
 
-### Coupling Efficiency vs. Tip Width
+###Transmission For TE & TM
+<img width="561" height="558" alt="TRANSMITTION" src="https://github.com/user-attachments/assets/1281936a-7613-4a99-9bb5-d79c728a6e71" />
 
-| Tip Width (nm) | Coupling Efficiency (%) | Insertion Loss (dB) |
-|---|---|---|
-| 80 | — | — |
-| 100 | — | — |
-| 120 | — | — |
-| 150 | — | — |
 
-*Table: Coupling efficiency as a function of inverse taper tip width at λ = 1550 nm.*
 
 ### Mode Field at Taper Tip
-
-> *(Insert MODE Solutions mode profile figure here — e.g., `figures/mode_profile_tip.png`)*
+<img width="529" height="496" alt="MODE_IN" src="https://github.com/user-attachments/assets/a4076f67-0bc0-4cf6-82b9-8317d5725798" /><img width="520" height="488" alt="MODE_OUT" src="https://github.com/user-attachments/assets/46681c28-bce0-4727-8fc7-5e2144bf8912" />
 
 ### Coupling Efficiency vs. Wavelength
+<img width="561" height="558" alt="TRANSMITTION" src="https://github.com/user-attachments/assets/839338c6-9896-4de7-8533-f39742803bfc" />
+##Tolerance
+###Horizontal Tolerance
+<img width="798" height="582" alt="HORIZONTAL_TOLERANCE" src="https://github.com/user-attachments/assets/8765009b-1ddd-4db7-b7e1-643fac99203c" />
+###Vertical Tolerance
+<img width="596" height="429" alt="VERTICAL_TOLERANCE" src="https://github.com/user-attachments/assets/6fb09c02-386d-42e2-a262-e990f6de23c8" />
 
-> *(Insert FDTD broadband coupling efficiency sweep plot here — e.g., `figures/coupling_vs_wavelength.png`)*
-
-### n_eff vs. Taper Width
-
-> *(Insert MODE Solutions effective index dispersion curve here — e.g., `figures/neff_vs_width.png`)*
-
----
 
 ## File Structure
 
