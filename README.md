@@ -211,6 +211,10 @@ In a standard rectangular inverse taper, only the **width** is tapered. In the t
 > **Note:** Replace these values with your actual simulated parameters.
 
 ---
+## Structure Of the Taper
+<img width="859" height="619" alt="SIDE_VIEW" src="https://github.com/user-attachments/assets/694ff9f4-6323-4414-9449-563fee7a9526" />
+<img width="1315" height="745" alt="TOP_VIEW" src="https://github.com/user-attachments/assets/2ef84bc2-2078-448a-bc54-c14719e8a9fe" />
+<img width="1205" height="754" alt="3D_VIEW" src="https://github.com/user-attachments/assets/91e8803e-e814-4fff-b3b8-ca2b9562e109" />
 
 ## Simulation Setup
 
